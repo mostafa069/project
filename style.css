@@ -1,0 +1,36 @@
+html {
+    font-size: 100%;
+}
+@font-face {
+    font-family: "dana";
+    src: url(./dana-medium\ \(2\).ttf);
+}
+body{
+    font-family: "dana" !important;
+}
+li .dad i {
+    width: 40px;
+    color: blue;
+    height: 0px;
+    display: none;
+    
+}
+li .dad:hover i {
+    display: block;
+    
+}
+li a:hover {
+    color:rgb(76, 76, 179) !important;
+}
+li .data i {
+    height: 5px;
+    width: 105px;
+    
+}
+.h-1 {
+    background-color:rgb(67, 98, 193);
+    height: 200px;
+    color: white;
+    text-align: center;
+    padding-top: 3rem;
+}
