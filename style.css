@@ -45,3 +45,21 @@ li .data i {
 .bg {
     background-color: rgb(67, 98, 193);
 }
+.parge {
+    color: white;
+    margin: 4rem;
+    padding-right: 152px;
+    position: relative;
+}
+.parge img {
+    position: absolute;
+    right: 115px;
+
+}
+.head {
+    font-size: 1.3rem;
+    color: rgb(37, 34, 34) !important;
+}
+  .head:hover{
+    color:#0d6efd !important ;
+}

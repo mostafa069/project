@@ -12,4 +12,17 @@
     .container-1 .row {
         text-align: center !important;
     }
+    .parge img {
+        position: unset;
     }
+     .parge{
+       padding:0px;
+    }
+    .lh-lg {
+        text-align: center;
+    }
+   
+
+
+    }
+
