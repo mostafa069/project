@@ -29,8 +29,16 @@ li .data i {
 }
 .h-1 {
     background-color:rgb(67, 98, 193);
-    height: 200px;
+    height: 300px;
     color: white;
     text-align: center;
     padding-top: 3rem;
+}
+.img {
+    position: relative;
+}
+.img img {
+    position: absolute;
+    top: -68px;
+    left: -6px;
 }
