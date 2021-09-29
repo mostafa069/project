@@ -1,0 +1,15 @@
+@media screen and (max-width:768px) {
+   
+   .container-1 {
+       height: 100% !important;
+   }
+   
+   
+    .img img {
+        position: unset;
+        width: 100%;
+    }
+    .container-1 .row {
+        text-align: center !important;
+    }
+    }
