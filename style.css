@@ -62,4 +62,7 @@ li .data i {
 }
   .head:hover{
     color:#0d6efd !important ;
-}
+  }
+  .mt {
+      margin-top: 2rem !important;
+  }
