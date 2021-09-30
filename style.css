@@ -66,3 +66,29 @@ li .data i {
   .mt {
       margin-top: 2rem !important;
   }
+  .fs {
+      font-size: 3.5rem !important;
+  }
+  footer {
+      background-color:rgb(68, 68, 68) ;
+      color: white;
+  }
+  footer input{
+    background-color: rgb(68, 68, 68) !important;
+    color: white !important;
+
+  }
+  footer textarea {
+    background-color: rgb(68, 68, 68) !important;
+    color: white !important;
+
+  }
+  .lh {
+      line-height: 3rem;
+  }
+  .font {
+      font-size: 0.75rem;
+  }
+  .lh:hover {
+      color: white !important;
+  }
