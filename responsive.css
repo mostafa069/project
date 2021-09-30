@@ -21,7 +21,15 @@
     .lh-lg {
         text-align: center;
     }
-   
+   .dark img {
+       position: unset;
+   }
+   .pttp {
+    padding-top: 10rem;
+}
+.pbb {
+    padding-bottom: 3rem;
+}
 
 
     }

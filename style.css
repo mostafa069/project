@@ -92,3 +92,15 @@ li .data i {
   .lh:hover {
       color: white !important;
   }
+  .dark img {
+      position: absolute;
+      left: 72px;
+      top: 24px;
+  }
+  .pttp {
+      padding-top: 15rem;
+  }
+  .pbb {
+      padding-bottom: 15rem;
+  }
+  
