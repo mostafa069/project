@@ -30,7 +30,39 @@
 .pbb {
     padding-bottom: 3rem;
 }
+.dark img {
+    position: relative;
+    right: 10px;
+}
+.dark::before{
+    content: "";
+    position: absolute;
+    background: rgb(174, 180, 174);
+    width: 72%;
+    left: 3%;
+    top: -118px;
+    height: 20em;
+    opacity: 0.9;
+    margin-top: 155px;
+    z-index: 0;
 
+  }
+  .fs {
+      font-size: 2rem !important;
+  }
+.btn {
+    margin: 1rem 0rem 1.5rem 0rem;
 
+}
+.pttp {
+    text-align: center;
+}
+.main img {
+    width: 100%;
+}
+ .head {
+     text-align: center;
+ }
+ 
     }
 
