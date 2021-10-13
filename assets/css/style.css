@@ -3,7 +3,7 @@ html {
 }
 @font-face {
     font-family: "dana";
-    src: url(./dana-medium\ \(2\).ttf);
+    src: url(../font/dana-medium\ \(2\).ttf);
 }
 body{
     font-family: "dana" !important;
@@ -125,4 +125,12 @@ li a:hover {
     z-index: 0;
 
   }
-  
+  .item-1 {
+      padding-top: 9rem;
+  }
+  .data-1 {
+      padding-right: 6rem !important;
+  }
+  .back {
+      background: #333;
+  } 

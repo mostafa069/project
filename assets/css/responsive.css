@@ -51,7 +51,7 @@
       font-size: 2rem !important;
   }
 .btn {
-    margin: 1rem 0rem 1.5rem 0rem;
+    margin: 0rem;
 
 }
 .pttp {
@@ -63,6 +63,19 @@
  .head {
      text-align: center;
  }
- 
+ .data-1 {
+     padding-right: 0rem !important;
+ }.item-1 {
+     height: 17.6rem !important;
+     padding-top: 3rem;
+ }
+ .p-1 {
+     margin: 0rem !important;
+ }
+ .main-1 {
+     margin-top: 2rem;
+     text-align: center;
+ } 
+
     }
 
